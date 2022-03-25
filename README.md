@@ -1,4 +1,4 @@
-﻿# Java-Practioce-1
+﻿# Java-Practice-1
 オブジェクトをJavaで再現するための演習
 
 預金・引き出し・利息の機能をシミュレーションする
